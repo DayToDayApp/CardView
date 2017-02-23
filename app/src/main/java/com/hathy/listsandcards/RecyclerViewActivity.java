@@ -39,6 +39,16 @@ public class RecyclerViewActivity extends Activity {
         persons.add(new Person("Emma Wilson", "23 years old", R.drawable.emma));
         persons.add(new Person("Lavery Maiss", "25 years old", R.drawable.lavery));
         persons.add(new Person("Lillie Watts", "35 years old", R.drawable.lillie));
+        persons.add(new Person("Noticia de mierda 1", "pero totalmente", R.drawable.lillie));
+        persons.add(new Person("PARSEAR XML AQUI", "35 years old", R.drawable.lillie));
+        persons.add(new Person("Lillie Watts", "35 years old", R.drawable.lillie));
+        persons.add(new Person("Lillie Watts", "35 years old", R.drawable.lillie));
+        persons.add(new Person("Lillie Watts", "35 years old", R.drawable.lillie));
+        persons.add(new Person("Lillie Watts", "35 years old", R.drawable.lillie));
+        persons.add(new Person("Lillie Watts", "35 years old", R.drawable.lillie));
+        persons.add(new Person("Lillie Watts", "35 years old", R.drawable.lillie));
+        persons.add(new Person("Lillie Watts", "35 years old", R.drawable.lillie));
+
     }
 
     private void initializeAdapter(){
